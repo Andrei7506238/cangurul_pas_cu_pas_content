@@ -1,0 +1,275 @@
+{
+    "name": "Exercitiul 13 - C",
+    "description": "Elaboreaza! Scrieti programele pentru desenarea figurilor ce urmeaza (subpunct c):",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 2.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 6.0,
+            "y": 0.0
+        },
+        "orientation": 2
+    },
+    "script": "\nPROCEDURA patrat\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nSALT\nSALT\nSFIRSITUL PROCEDURII\n[\nEXECUTA patrat\nEXECUTA patrat\nEXECUTA patrat\n\nROTIRE\nSALT\nROTIRE\nSALT\nSALT\nPAS\nSALT\nPAS\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\n\nPAS\nROTIRE\nROTIRE\nROTIRE\nPAS\nPAS\nPAS\nPAS\nPAS\nROTIRE\nROTIRE\nROTIRE\nPAS\nROTIRE\nROTIRE\nROTIRE\nPAS\nPAS\nPAS\nPAS\nPAS\n\nROTIRE\nSALT\nSALT\nROTIRE\nSALT\nSALT\nSALT\nSALT\nSALT\nSALT\n]",
+    "scriptLang": "romanianLatin"
+}
