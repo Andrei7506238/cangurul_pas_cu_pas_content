@@ -1,0 +1,175 @@
+{
+    "name": "Exercitiul 4 - D",
+    "description": "Exploreaza! Folosind procedura PATRAT, elaborati programele necesare pentru desenarea figurilor ce urmeaza (subpunct d):",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 6.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 7.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 7.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 7.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 7.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 6.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 6.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 6.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 8.0,
+            "y": 1.0
+        },
+        "orientation": 2
+    },
+    "script": "\nPROCEDURA PATRAT\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nSALT\nSALT\nSFIRSITUL PROCEDURII\n\nPROCEDURA MISCAJOS\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\nSFIRSITUL PROCEDURII\n\n\nPROCEDURA MISCASUS\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nSFIRSITUL PROCEDURII\n\n[\nROTIRE\nSALT\nSALT\nROTIRE\nROTIRE\nROTIRE\n\nEXECUTA PATRAT\nEXECUTA MISCASUS\nEXECUTA PATRAT\nEXECUTA MISCASUS\nEXECUTA PATRAT\nEXECUTA MISCAJOS\nEXECUTA PATRAT\n\n]",
+    "scriptLang": "romanianLatin"
+}
