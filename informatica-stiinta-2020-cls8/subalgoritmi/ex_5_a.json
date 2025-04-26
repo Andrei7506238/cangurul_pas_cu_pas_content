@@ -1,0 +1,215 @@
+{
+    "name": "Exercitiul 5 - A",
+    "description": "Identificați in figurile ce urmeaza fragmentele care se repetă.Scrieți procedutile necesare pentru desenarea acestor fragmente (subpunct a)",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 3.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 6.0,
+            "y": 0.0
+        },
+        "orientation": 2
+    },
+    "script": "\nPROCEDURA LINIEORIZONTALA\nPAS\nPAS\nPAS\nPAS\nPAS\nSFIRSITUL PROCEDURII\n\n\nPROCEDURA INTOARCEREDREAPTA\nROTIRE\nSALT\nROTIRE\nSFIRSITUL PROCEDURII\n\nPROCEDURA INTOARCERESTANGA\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nSFIRSITUL PROCEDURII\n\n\n[\nEXECUTA LINIEORIZONTALA\nEXECUTA INTOARCEREDREAPTA\nEXECUTA LINIEORIZONTALA\nEXECUTA INTOARCERESTANGA\nEXECUTA LINIEORIZONTALA\nEXECUTA INTOARCEREDREAPTA\nEXECUTA LINIEORIZONTALA\nEXECUTA INTOARCERESTANGA\n\nSALT\nSALT\nSALT\nSALT\nSALT\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\nSALT\nSALT\nSALT\nROTIRE\n]",
+    "scriptLang": "romanianLatin"
+}
