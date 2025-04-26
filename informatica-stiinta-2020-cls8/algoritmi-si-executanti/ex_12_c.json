@@ -1,0 +1,135 @@
+{
+    "name": "Exercitiul 12 - C",
+    "description": "Creeaza! Lansand comenzile PAS, SALT, ROTIRE, desenati figurile ce urmeaza (subpunct c):",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 6.0,
+            "y": 0.0
+        },
+        "orientation": 2
+    },
+    "script": "\nPROCEDURA patrat\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nPAS\nROTIRE\nSALT\nSFIRSITUL PROCEDURII\n\n[\nEXECUTA patrat\nSALT\nEXECUTA patrat\nSALT\nEXECUTA patrat\nSALT\n]",
+    "scriptLang": "romanianLatin"
+}

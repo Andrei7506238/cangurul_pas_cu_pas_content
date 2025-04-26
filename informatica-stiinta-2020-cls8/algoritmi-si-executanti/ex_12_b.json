@@ -1,0 +1,135 @@
+{
+    "name": "Exercitiul 12 - B",
+    "description": "Creeaza! Lansand comenzile PAS, SALT, ROTIRE, desenati figurile ce urmeaza (subpunct b):",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 3.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 3.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 2.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 0.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 6.0,
+            "y": 0.0
+        },
+        "orientation": 2
+    },
+    "script": "[\nROTIRE\nPAS\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nPAS\nPAS\nROTIRE\nSALT\nROTIRE\nPAS\nPAS\nPAS\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nPAS\nPAS\nPAS\nROTIRE\nSALT\nROTIRE\nPAS\nPAS\nROTIRE\nROTIRE\nROTIRE\nSALT\nROTIRE\nROTIRE\nROTIRE\nSALT\nPAS\nROTIRE\nSALT\n]",
+    "scriptLang": "romanianLatin"
+}
