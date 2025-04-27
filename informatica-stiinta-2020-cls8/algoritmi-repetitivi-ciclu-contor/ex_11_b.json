@@ -1,0 +1,255 @@
+{
+    "name": "Exercitiul 11 - B",
+    "description": "Elaborati algoritmi repetitivi pentru desenearea figurilor ce urmeaza (subpunct b)",
+    "lines": [
+        {
+            "start": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 1.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 2.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 3.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 3.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 4.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 5.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 5.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 6.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 6.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 7.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 7.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 7.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 7.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 8.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 8.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 9.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 9.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 9.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 9.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 10.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 10.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 11.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 11.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 11.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 11.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 12.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 12.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 13.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 13.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 13.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 13.0,
+                "y": 2.0
+            }
+        },
+        {
+            "start": {
+                "x": 14.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 14.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 15.0,
+                "y": 0.0
+            },
+            "end": {
+                "x": 15.0,
+                "y": 1.0
+            }
+        },
+        {
+            "start": {
+                "x": 15.0,
+                "y": 1.0
+            },
+            "end": {
+                "x": 15.0,
+                "y": 2.0
+            }
+        }
+    ],
+    "endPosition": {
+        "position": {
+            "x": 16.0,
+            "y": 0.0
+        },
+        "orientation": 2
+    },
+    "script": "PROCEDURA LINIEMARE\nROTIRE\nPAS\nPAS\nROTIRE\nROTIRE\nSALT\nSALT\nROTIRE\nSALT\nSFIRSITUL PROCEDURII\n\nPROCEDURA LINIEMICA\nROTIRE\nPAS\nROTIRE\nROTIRE\nSALT\nROTIRE\nSALT\nSFIRSITUL PROCEDURII\n\n[\nREPETA 8 ORI\nEXECUTA LINIEMICA\nEXECUTA LINIEMARE\nSFIRSITUL REPETARII\n]",
+    "scriptLang": "romanianLatin"
+}
