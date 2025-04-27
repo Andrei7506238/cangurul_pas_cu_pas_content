@@ -1,6 +1,6 @@
 {
     "name": "Opt patrate",
-    "description": "Deseneaza un patrat de 8 ori folosind structura repetitiva REPETA <N> ORI.",
+    "description": "Deseneaza un patrat de 8 ori folosind structura repetitiva REPETA N ORI.",
     "lines": [
         {
             "start": {
